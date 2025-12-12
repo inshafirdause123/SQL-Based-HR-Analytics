@@ -31,29 +31,33 @@ The objective of this project is to analyze employee attrition using SQL by iden
 | **Window Functions**   | Ranking, partitioning, analysis         |
 | **Excel/CSV**          | Raw dataset                             |
 
-# 🧪 SQL Concepts Used
 
-✔ CTEs (Common Table Expressions)
-✔ Window Functions (RANK, DENSE_RANK, ROW_NUMBER)
-✔ Aggregations (SUM, AVG, COUNT)
-✔ CASE WHEN logic
-✔ Grouping & Filtering
-✔ Joins
-✔ Subqueries
-✔ Data Cleaning Queries
+# 🧪 SQL Concepts Used  
+✔ CTEs (Common Table Expressions)  
+✔ Window Functions (RANK, DENSE_RANK, ROW_NUMBER)  
+✔ Aggregations (SUM, AVG, COUNT)  
+✔ CASE WHEN logic  
+✔ Grouping & Filtering  
+✔ Joins  
+✔ Subqueries  
+✔ Data Cleaning Queries  
 
 
-# 📊 Key Business Questions
-1️⃣ What is the overall attrition rate?
-2️⃣ Which department has the highest attrition?
-3️⃣ Do employees with overtime show higher attrition?
-4️⃣ Does monthly income influence resignation?
-5️⃣ Which job roles are at the highest risk?
-6️⃣ Does experience (YearsAtCompany) affect attrition?
-7️⃣ How does WorkLifeBalance impact employee turnover?
-8️⃣ Are younger employees more likely to resign?
-9️⃣ Top 3 highest paid employees per department? (Window Function)
-🔟 Salary hike vs attrition — any correlation?
+
+
+📊 Key Business Questions  
+1️⃣ What is the overall attrition rate?  
+2️⃣ Which department has the highest attrition?  
+3️⃣ Do employees with overtime show higher attrition?  
+4️⃣ Does monthly income influence resignation?  
+5️⃣ Which job roles are at the highest risk?  
+6️⃣ Does experience (YearsAtCompany) affect attrition?  
+7️⃣ How does WorkLifeBalance impact employee turnover?  
+8️⃣ Are younger employees more likely to resign?  
+9️⃣ Top 3 highest paid employees per department? (Window Function)  
+🔟 Salary hike vs attrition — any correlation?  
+
+
 
 # 📈 Insights & Findings
 🔹 1. Overtime is a major driver of attrition
@@ -66,9 +70,7 @@ Lower salary groups show significantly higher turnover.
 
 🔹 3. Departments with highest attrition:
 
-Sales
-
-Research & Development
+ Sales and Research & Development
 
 🔹 4. Job satisfaction strongly impacts retention
 
