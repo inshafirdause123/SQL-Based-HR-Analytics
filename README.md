@@ -1,1 +1,4 @@
-# SQL-Based-HR-Analytics
+# HR-Analytics
+# Project Obective
+
+
