@@ -85,6 +85,13 @@ Age group 18–25 shows the highest resignation rate.
 Attrition is highest for 0–2 years experience.
 
  # 📁 Dataset
+  https://github.com/inshafirdause123/SQL-Based-HR-Analytics/blob/main/HR_Analytics.csv
+
+ # 🤝 Connect
+If you found this project useful, feel free to ⭐ the repository and connect with me:
+📧 Email: inshafirdause123@gmail.com
+🔗 LinkedIn: 
+
 
 
 
