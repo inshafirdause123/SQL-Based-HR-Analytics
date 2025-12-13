@@ -20,6 +20,7 @@ The objective of this project is to analyze employee attrition using SQL by iden
 7. Performance & behavior: TrainingTimesLastYear, EnvironmentSatisfaction
 
 8. Target variable: Attrition (Yes/No)
+   
 
 # 🛠️ Tech Stack
 
@@ -30,6 +31,7 @@ The objective of this project is to analyze employee attrition using SQL by iden
 | **CTEs**               | Organizing complex logic                |
 | **Window Functions**   | Ranking, partitioning, analysis         |
 | **Excel/CSV**          | Raw dataset                             |
+
 
 
 # 🧪 SQL Concepts Used  
@@ -45,7 +47,7 @@ The objective of this project is to analyze employee attrition using SQL by iden
 
 
 
-📊 Key Business Questions  
+# 📊 Key Business Questions  
 1️⃣ What is the overall attrition rate?  
 2️⃣ Which department has the highest attrition?  
 3️⃣ Do employees with overtime show higher attrition?  
@@ -91,7 +93,7 @@ Attrition is highest for 0–2 years experience.
 If you found this project useful, feel free to ⭐ the repository and connect with me.
 
 📧 **Email:** inshafirdause123@gmail.com  
-🔗 **LinkedIn:** [Insha Firdause](https://www.linkedin.com/in/insha-firdause)
+🔗[LinkedIn](https://www.linkedin.com/in/insha-firdause)
 
  
 
